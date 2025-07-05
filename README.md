@@ -3,7 +3,7 @@
 #### I am currently an postdoctoral associate at Beihang University. I obtained my PhD degree (2020-2024) from the School of Computer Science and Engineering, Beihang University, supervised by Prof. Xingxing Wei and Prof. Bo Li. My research interests lie in multimodal perception, multisource data fusion and remote sensing.
 
 
-⭐**项目汇总**⭐
+⭐**Project Summary**⭐
 * [UniRGB-IR](https://github.com/PoTsui99/UniRGB-IR)：UniRGB-IR: A Unified Framework for Visible-Infrared Semantic Tasks via Adapter Tuning (**ACMMM 2025**) ![](https://unv-shield.librian.net/api/unv_shield?repo=PoTsui99/UniRGB-IR&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7) 
 * [M²D-LIF](https://github.com/Zhao-Tian-yi/M2D-LIF)：Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning (**ICCV 2025**) ![](https://unv-shield.librian.net/api/unv_shield?repo=Zhao-Tian-yi/M2D-LIF&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7) 
 * [C²Former](https://github.com/yuanmaoxun/C2former)：C²Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection (**TGRS2024**) ![](https://unv-shield.librian.net/api/unv_shield?repo=yuanmaoxun/C2former&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7)
