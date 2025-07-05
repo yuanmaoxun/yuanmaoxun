@@ -1,4 +1,6 @@
-I am currently an postdoctoral associate at Beihang University. I obtained my PhD degree (2020-2024) from the School of Computer Science and Engineering, Beihang University, supervised by Prof. Xingxing Wei and Prof. Bo Li. My research interests lie in multimodal perception, multisource data fusion and remote sensing.
+### Hi there, I'm [Maoxun Yuan](https://yuanmaoxun.github.io/) 👋
+
+#### I am currently an postdoctoral associate at Beihang University. I obtained my PhD degree (2020-2024) from the School of Computer Science and Engineering, Beihang University, supervised by Prof. Xingxing Wei and Prof. Bo Li. My research interests lie in multimodal perception, multisource data fusion and remote sensing.
 
 
 ⭐**项目汇总**⭐
