@@ -10,7 +10,7 @@
 * [RSDet](https://github.com/Zhao-Tian-yi/RSDet)：Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection (**Arxiv 2024**) ![](https://unv-shield.librian.net/api/unv_shield?repo=Zhao-Tian-yi/RSDet&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7) 
 * [SFDFusion](https://github.com/lqz2/SFDFusion)：SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion (**ECAI 2024**) ![](https://unv-shield.librian.net/api/unv_shield?repo=lqz2/SFDFusion&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7) 
 
-* [Awesome RGBT Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)
+* [Awesome RGB-T Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion)
 
 <img width="60%"  src="https://api.star-history.com/svg?repos=yuanmaoxun/Awesome-RGBT-Fusion&type=Date" />
 
