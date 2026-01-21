@@ -4,6 +4,7 @@
 
 
 ⭐**Project Summary**⭐
+* [RGBT-Ground Benchmark](https://arxiv.org/abs/2512.24561)：RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios (**Arxiv 2026**) ![](https://unv-shield.librian.net/api/unv_shield?repo=crazyxiaoxi/RGBTVG&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7) 
 * [UniRGB-IR](https://github.com/PoTsui99/UniRGB-IR)：UniRGB-IR: A Unified Framework for Visible-Infrared Semantic Tasks via Adapter Tuning (**ACMMM 2025**) ![](https://unv-shield.librian.net/api/unv_shield?repo=PoTsui99/UniRGB-IR&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7) 
 * [M²D-LIF](https://github.com/Zhao-Tian-yi/M2D-LIF)：Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning (**ICCV 2025**) ![](https://unv-shield.librian.net/api/unv_shield?repo=Zhao-Tian-yi/M2D-LIF&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7) 
 * [RSDet](https://github.com/Zhao-Tian-yi/RSDet)：Removal then Selection: A Coarse-to-Fine Fusion Perspective for RGB-Infrared Object Detection (**TITS 2025**) ![](https://unv-shield.librian.net/api/unv_shield?repo=Zhao-Tian-yi/RSDet&url=https://avatars.githubusercontent.com/u/25134448&scale=0.7)
